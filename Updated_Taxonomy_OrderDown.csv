@@ -1,0 +1,75 @@
+Old_Order,Old_Family,Old_Genus,Old_Species,New_Order,New_Family,New_Genus,New_Species
+Phyllodocida,Goniadidae,Glycinde,solitaria,Phyllodocida,Goniadidae,Glycinde,multidens
+Neotaenioglossa,Epitoniidae,Epitonium,rupicola,Caenogastropoda,Epitoniidae,Gyroscala,rupicola
+Neotaenioglossa,Epitoniidae,Epitonium,foliaceicosta,Caenogastropoda,Epitoniidae,Epitonium,foliaceicosta
+Cephalaspidea,Scaphandridae,Cylichnella,bidentata,Cephalaspidea,Cylichnidae,Cylichnella,bidentata
+Cardiida,Crassatellidae,Crassinella,martinicensis,Carditida,Crassatellidae,Crassinella,martinicensis
+Myoida,Corbulidae,Caryocorbula,contracta,Myida,Corbulidae,Caryocorbula,contracta
+Flabelligerida,Flabelligeridae,Brada,villosa,Terebellida,Flabelligeridae,Bradabyssa,villosa
+Mysida,Mysidae,Bowmaniella,dissimilis,Mysida,Mysidae,Chlamydopleon,dissimile
+Cardiida,Tellinidae,Angulus,versicolor,Cardiida,Tellinidae,Ameritella,versicolor
+Isopoda,Sphaeromatidae,Ancinus,depressus,Isopoda,Ancinidae,Ancinus,depressus
+Arcoida,Arcidae,Anadara,floridana,Arcoida,Arcidae,Anadara,secticostata
+Veneroida,Donacidae,Donax,texasianus,Cardiida,Donacidae,Donax,texasianus
+Veneroida,Tellinidae,Eurytellina,alternata,Cardiida,Tellinidae,Eurytellina,alternata
+Veneroida,Mactridae,Mulinia,lateralis,Venerida,Mactridae,Mulinia ,lateralis
+Veneroida,Lucinidae,Parvilucina,multilineata,Lucinida,Lucinidae,Parvilucina,multilineata
+Veneroida,Lucinidae,Radiolucina,amianta,Lucinida,Lucinidae,Radiolucina,amianta
+Veneroida,Tellinidae,Scissula,iris,Cardiida,Tellinidae,Scissula,iris
+Veneroida,Semelidae,Semele,proficua,Cardiida,Semelidae,Semele,proficua
+Veneroida,Solenidae,Solen,virdis,Adapedonta,Solenidae,Solen,virdis
+Veneroida,Tellinidae,Strigilla,mirabilis,Cardiida,Tellinidae,Strigilla,mirabilis
+Veneroida,Semelidae,Abra,aequalis,Cardiida,Semelidae,Abra,aequalis
+Veneroida,Semelidae,Cumingia,coarctata,Cardiida,Semelidae,Cumingia,lamellosa 
+Veneroida,Cardiidae,Dinocardium,robustum,Cardiida,Cardiidae,Dinocardium,robustum
+Veneroida,Ungulinidae,Diplodonta,semiaspera,Venerida,Ungulinidae,Phlyctiderma,semiasperum
+Veneroida,Tellinidae,Eurytellina,nitens,Cardiida,Tellinidae,Eurytellina,nitens
+Veneroida,Tellinidae,Macoma,tenta,Cardiida,Tellinidae,Macoploma ,tenta
+Veneroida,Mactridae,Spisula,solidissima,Venerida,Mactridae,Spisula,solidissima
+Ophiurida,Ophiactidae,Hemipholis,elongata,Amphilepidida ,Ophiactidae,Hemipholis,elongata
+Tanaidacea,Kalliapseudidae,Kalliapseudes,bahamaensis,Tanaidacea,Kalliapseudidae,Mesokalliapseudes,bahamensis
+Neogastropoda,Turridae,Kurtziella,atrostyla,Neogastropoda ,Mangeliidae,Kurtziella,atrostyla
+Amphipoda,Haustoriidae,Lepidactylus,triarticulatus,Amphipoda,Haustoriidae,Cryptohaustorius ,triarticulatus
+Decapoda,Luciferidae,Lucifer,faxoni,Decapoda,Luciferidae ,Belzebub,faxoni
+Arcoida,Arcidae,Lunarca,ovalis,Arcida,Arcidae,Lunarca,ovalis
+Phyllodocida,Polynoidae,Malmgreniella,lunulata,Phyllodocida,Polynoidae,Malmgrenia,lunulata
+Terebellida,Ampharetidae,Melinna,maculata,Terebellida,Melinnidae,Melinna,maculata
+Sabellida,Sabellidae,Megalomma,bioculatum,Sabellida,Sabellidae,Acromegalomma ,bioculatum
+Clypeasteroida,Mellitidae,Mellita,isometra,Echinolampadacea,Mellitidae,Mellita,isometra
+Neogastropoda,Nassariidae,Nassarius,albus,Neogastropoda,Nassariidae,Phrontis,alba
+Neogastropoda,Nassariidae,Nassarius,polygonatus,Neogastropoda,Nassariidae,Phrontis ,polygonata
+Phyllodocida,Nereididae,Nereis,micromma,Phyllodocida,Nereididae,Neanthes,micromma
+Neotaenioglossa,Naticidae,Neverita,duplicata,Littorinimorpha,Naticidae,Neverita,duplicata
+Phyllodocida,Nereididae,Nereis,succinea,Phyllodocida,Nereididae,Alitta,succinea
+Nuculanida,Nuculanidae,Nuculana,acuta,Nuculanida,Nuculanidae,Saccella,acuta
+Neogastropoda,Olividae,Olivella,dealbata,Neogastropoda,Olividae,Olivella,mica
+Decapoda,Portunidae,Ovalipes,stephensoni,Decapoda,Ovalipidae ,Ovalipes,stephensoni
+Phyllodocida,Chrysopetalidae,Paleanotus,heteroseta,Phyllodocida,Chrysopetalidae,Paleaequor,heteroseta
+Terebellida,Pectinariidae,Pectinaria,gouldi,Terebellida,Pectinariidae,Pectinaria,gouldii
+Decapoda,Pinnotheridae,Pinnixa,sayana,Decapoda,Pinnotheridae,Rathbunixa,sayana
+Phyllodocida,Hesionidae,Podarke,obscura,Phyllodocida,Hesionidae,Oxydromus,obscurus
+Spionida,Spionidae,Polydora,caulleryi,Spionida,Spionidae,Dipolydora ,caulleryi
+Orbiniida,Orbiniidae,Scoloplos,rubra,Orbiniida,Orbiniidae,Leodamas,ruber
+Spionida,Spionidae,Spiophanes,missionensis,Spionida,Spionidae,Spiophanes,duplex
+Canalipalpata,Sternaspidae,Sternaspis,scutata,Terebellida,Sternaspidae,Sternaspis,scutata
+Phyllodocida,Syllidae,Streptosyllis,pettiboneae,Phyllodocida,Syllidae,Streptosyllis,websteri
+Phyllodocida,Pilargidae,Synelmis,ewingi,Phyllodocida,Pilargidae,Litocorsa,ewingi
+Cardiida,Psammobiidae,Tagelus,divisus,Cardiida,Solecurtidae,Tagelus,divisus
+Neotaenioglossa,Naticidae,Tectonatica,pusilla,Littorinimorpha,Naticidae,Tectonatica,pusilla
+Heterostropha,Pyramidellidae,Turbonilla,hemphilli,NA,Pyramidellidae,Turbonilla,hemphilli
+Pyramidellida,Pyramidellidae,Turbonilla,portoricana,NA,Pyramidellidae,Turbonilla,portoricana
+Heterostropha,Pyramidellidae,Turbonilla,portoricana,NA,Pyramidellidae,Turbonilla,portoricana
+Orbiniida,Orbiniidae,Scoloplos (LPIL),Scoloplos (LPIL),Orbiniida,Orbiniidae,Leodamas,Leodamas (LPIL)
+Ophiurida,Amphiuridae,Amphiuridae (LPIL),Amphiuridae (LPIL),Amphilepidida ,Amphiuridae,Amphiuridae,Amphiuridae (LPIL)
+Neotaenioglossa,Epitoniidae,Epitonium (LPIL),Epitonium (LPIL),Caenogastropoda,Epitoniidae,Epitonium,Epitonium (LPIL)
+Aspidosiphoniformes,Aspidosiphonidae,Aspidosiphon (LPIL),Aspidosiphon (LPIL),Sipuncula,Aspidosiphonidae,Aspidosiphon,Aspidosiphon (LPIL)
+Veneroida,Lucinidae,Lucinidae (LPIL),Lucinidae (LPIL),Lucinida,Lucinidae,Lucinidae,Lucinidae (LPIL)
+Veneroida,Lasaeidae,Lasaeidae (LPIL),Lasaeidae (LPIL),Galeommatida,Lasaeidae,Lasaeidae,Lasaeidae (LPIL)
+Veneroida,Tellinidae,Tellinidae (LPIL),Tellinidae (LPIL),Cardiida,Tellinidae,Tellinidae ,Tellinidae (LPIL)
+Anopla,Heteronemertea,Lineidae (LPIL),Lineidae (LPIL),Pilidiophora,Heteronemertea,Lineidae,Lineidae (LPIL)
+Sabellida,Sabellidae,Megalomma (LPIL),Megalomma (LPIL),Sabellida,Sabellidae,Acromegalomma ,Acromegalomma (LPIL)
+Clypeasteroida,Mellitidae,Mellitidae (LPIL),Mellitidae (LPIL),Echinolampadacea ,Mellitidae,Mellitidae,Mellitidae (LPIL)
+Myoida,Myidae,Myidae (LPIL),Myidae (LPIL),Myida,Myidae,Myidae,Myidae (LPIL)
+Mytiloida,Mytilidae,Mytilidae (LPIL),Mytilidae (LPIL),Mytilida,Mytilidae,Mytilidae,Mytilidae (LPIL)
+Decapoda,Palaemonidae,Palaemonetes (LPIL),Palaemonetes (LPIL),Decapoda,Palaemonidae,Palaemon,Palaemon (LPIL)
+Pyramidellida,Pyramidellidae,Turbonilla (LPIL),Turbonilla (LPIL),Pyramidellidae,Pyramidellidae,Turbonilla,Turbonilla (LPIL)
