@@ -21,3 +21,11 @@ d.station$sta <- str_replace(d.station$Station, "BI_", "") # remove dumbass pref
 
 d.station.sub <- d.station %>% subset(sta %in% sta.list) #subset for stations sampled
 (ballsack <- unique(d.station.sub$sta)) # for comparison
+
+######
+## Prep for joining
+d.station.sub <- d.station.sub %>% select(c(Station, Latitude, Longitude, sta))
+d.station.unique <- d.station.sub %>% unique.data.frame()
+by1 <- join_by(x$Station == y$sta)
+d.all.join <- full_join(d.all, d.station.unique, by = by1)
+write.csv(d.all.join, file = 'all_taxa_coords_081325.csv')
