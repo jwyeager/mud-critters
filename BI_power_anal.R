@@ -25,9 +25,4 @@ max.n.500m <- 42 + 79 + 71 + 52
 
 244 / 4
 
-sigma<-sd.Tot
-c<-100
-mu<-x.Tot
-d<-(mu-c)/sigma
-(nor.pwr <- pwr.norm.test(d = df, n = length(d$Total.g.m2), sig.level = 0.05,
-                         power = NULL, alternative = c("two.sided","less","greater")))
+
